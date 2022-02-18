@@ -1,3 +1,4 @@
+require("Lua/tools")
 ---@param hash table 希望使用哈希作为索引
 ---@param array table 数组
 ---@param repeatTb table 相同值得数组
